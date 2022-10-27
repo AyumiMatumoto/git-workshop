@@ -13,8 +13,12 @@
   }
 }
 
+.mudar-cor {
+  color: #c90076;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: #6a0d44;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
