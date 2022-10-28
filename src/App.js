@@ -1,5 +1,5 @@
 //import logo from './logo.svg';
-import monkey from './urso.jpeg'
+import monkey from './urso.jpg'
 import './App.css';
 
 function App() {
